@@ -1,0 +1,9 @@
+check .GT. all
+
+Solutions:
+1. Crack
+2. Equivalent and convert
+3. Translate from f77 
+4. Translate to f90 and then auto translate
+5. Use fortran in Matlab
+6. Find the C version and use

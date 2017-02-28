@@ -1,0 +1,17 @@
+------ Project Conversion started on 23.05.2011 at 11:09 - Project: REFLEX15 ------
+
+Creating configuration context: REFLEX15 - Win32 Debug...
+
+Browser option not supported - option ignored
+
+Warn:argument_checking option not supported - option ignored
+
+Warn:nofileopt option not supported - option ignored
+
+Creating configuration context: REFLEX15 - Win32 Release...
+
+Warn:nofileopt option not supported - option ignored
+
+REFLEX15 project conversion succeeded
+
+Project Conversion log was saved at "file://C:\Users\caromero.STI\Desktop\hamid_reflex\REFLEX15_log.txt"

@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: REFLEX15 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe kernel32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/REFLEX15.pdb" /debug /machine:I386 /out:"Debug/REFLEX15.exe" /pdbtype:sept  .\Debug\REFLEX15.obj .\Debug\subnag.obj .\Debug\TYPES.OBJ "
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/REFLEX15.bsc"  .\Debug\REFLEX15.sbr .\Debug\subnag.sbr .\Debug\TYPES.SBR"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+REFLEX15.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿Build started 20.05.2011 11:41:33.
+     1>Project "C:\Users\caromero.STI\Desktop\hamid_reflex\REFLEX15.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\REFLEX15.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\REFLEX15.exe.embed.manifest.res" .\Debug\REFLEX15_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\REFLEX15.exe" /INCREMENTAL /NOLOGO kernel32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\REFLEX15.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\caromero.STI\Desktop\hamid_reflex\Debug\REFLEX15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\REFLEX15.lib" /MACHINE:X86 .\Debug\REFLEX15.exe.embed.manifest.res
+     1>LINK : warning LNK4076: invalid incremental status file '.\Debug\REFLEX15.ilk' (which will be deleted); linking nonincrementally
+     1>LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+     1>.\Debug\REFLEX15.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\caromero.STI\Desktop\hamid_reflex\REFLEX15.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.58
